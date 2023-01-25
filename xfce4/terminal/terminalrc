@@ -29,5 +29,5 @@ MiscShowUnsafePasteDialog=TRUE
 MiscRightClickAction=TERMINAL_RIGHT_CLICK_ACTION_CONTEXT_MENU
 OverlayScrolling=TRUE
 BackgroundMode=TERMINAL_BACKGROUND_TRANSPARENT
-ColorBoldIsBright=FALSE
+ColorBoldIsBright=TRUE
 
