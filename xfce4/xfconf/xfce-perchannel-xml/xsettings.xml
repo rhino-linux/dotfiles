@@ -2,8 +2,8 @@
 
 <channel name="xsettings" version="1.0">
   <property name="Net" type="empty">
-    <property name="ThemeName" type="string" value="Yaru-purple"/>
-    <property name="IconThemeName" type="string" value="Yaru-purple"/>
+    <property name="ThemeName" type="string" value="Yaru-purple-dark"/>
+    <property name="IconThemeName" type="string" value="Yaru-purple-dark"/>
     <property name="DoubleClickTime" type="empty"/>
     <property name="DoubleClickDistance" type="empty"/>
     <property name="DndDragThreshold" type="empty"/>
