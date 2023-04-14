@@ -7,12 +7,11 @@ If you'd like more information and tutorials, consider [checking out our wiki](h
 Here is a directory structure of the dotfiles.
 
     .
+    ├── logo.png
+    ├── logo.svg
     ├── README.md
     ├── rhino
     │   ├── geo.png
-    │   ├── logos
-    │   │   ├── logo.png
-    │   │   └── logo.svg
     │   ├── moon.png
     │   ├── mountains.png
     │   ├── remix.png
